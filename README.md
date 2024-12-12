@@ -18,7 +18,7 @@
 
 ### Resutados
 
-![Alt text](./teste_01.png "Optional title")
-![Alt text](./teste_02.png "Optional title")
-![Alt text](./teste_03.png "Optional title")
-![Alt text](./teste_04.png "Optional title")
+![Alt text](./teste_01.PNG "Optional title")
+![Alt text](./teste_02.PNG "Optional title")
+![Alt text](./teste_03.PNG "Optional title")
+![Alt text](./teste_04.PNG "Optional title")
